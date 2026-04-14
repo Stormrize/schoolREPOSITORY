@@ -12,7 +12,11 @@ Um ein leeres Repositry zu erstellen schreibt man git init
 
 Um datein hinzufügen schreibt man git add <Datei oder . für alles>
 
-Um Änderungen zu speochern schreibt man git commit
+Um Änderungen zu speichern schreibt man git commit
+
+Um lokale Änderungen auf remote Repository zu übertragen schreibt man git push
+
+Um Änderungen aus dem remote Repository zu nehmen schreibt man git pull
 
 Um ein Repo (lokal oder remote) zu kopieren verwende git copy <Verzeichnisname (lokal) ODER https, ssh oder github (remote)>
 
