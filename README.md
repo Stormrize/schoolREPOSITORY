@@ -10,7 +10,7 @@ Git ist ein dezentrales Versionskontrollsystem, welches von Linus Torvals im Rah
 
 Um ein leeres Repositry zu erstellen schreibt man git init
 
-Um datein hinzufügen schreibt man git add <Datei oder . für alles>
+Um Dateien hinzufügen schreibt man git add <Datei oder . für alles>
 
 Um Änderungen zu speichern schreibt man git commit
 
